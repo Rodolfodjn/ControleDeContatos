@@ -1,5 +1,10 @@
 # Sistema de Cadastro de Contatos Virtual
 
+O sistema é para cadastrar contatos, cria usuarios para logar, tela de Redifinir e alterar senha. Envio de Email para o usuario.
+
+
+
+
 Código para funcionar a paginação e a tradução dos componentes de busca
 
 <pre>
